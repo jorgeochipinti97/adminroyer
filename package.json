@@ -9,8 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.13.7",
+    "@mui/material": "^5.13.7",
+    "axios": "^1.4.0",
+    "cloudinary": "^1.37.3",
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",
+    "formidable": "^3.5.0",
+    "mongoose": "^7.3.2",
     "next": "13.4.9",
     "react": "18.2.0",
     "react-dom": "18.2.0"
